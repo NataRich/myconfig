@@ -16,5 +16,5 @@ km.set("n", "<leader> ", ":nohl<CR>") -- clear highlight
 
 -- plugins
 km.set("n", "<leader>t", ":NvimTreeToggle<CR>")
-km.set("n", "<C-i>", ":bnext<CR>")
-km.set("n", "<C-o>", ":bprevious<CR>")
+km.set("n", "<C-o>", ":bnext<CR>")
+km.set("n", "<C-i>", ":bprevious<CR>")
